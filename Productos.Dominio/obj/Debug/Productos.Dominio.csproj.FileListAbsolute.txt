@@ -1,0 +1,5 @@
+C:\Users\sopor\source\repos\KORPSS\Productos.Dominio\bin\Debug\Productos.Dominio.dll
+C:\Users\sopor\source\repos\KORPSS\Productos.Dominio\bin\Debug\Productos.Dominio.pdb
+C:\Users\sopor\source\repos\KORPSS\Productos.Dominio\obj\Debug\Productos.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\sopor\source\repos\KORPSS\Productos.Dominio\obj\Debug\Productos.Dominio.dll
+C:\Users\sopor\source\repos\KORPSS\Productos.Dominio\obj\Debug\Productos.Dominio.pdb

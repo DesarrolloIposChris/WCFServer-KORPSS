@@ -1,0 +1,5 @@
+C:\Users\sopor\source\repos\KORPSS\Productos.ConexionBaseDatos\bin\Debug\Productos.ConexionBaseDatos.dll
+C:\Users\sopor\source\repos\KORPSS\Productos.ConexionBaseDatos\bin\Debug\Productos.ConexionBaseDatos.pdb
+C:\Users\sopor\source\repos\KORPSS\Productos.ConexionBaseDatos\obj\Debug\Productos.ConexionBaseDatos.csproj.CoreCompileInputs.cache
+C:\Users\sopor\source\repos\KORPSS\Productos.ConexionBaseDatos\obj\Debug\Productos.ConexionBaseDatos.dll
+C:\Users\sopor\source\repos\KORPSS\Productos.ConexionBaseDatos\obj\Debug\Productos.ConexionBaseDatos.pdb

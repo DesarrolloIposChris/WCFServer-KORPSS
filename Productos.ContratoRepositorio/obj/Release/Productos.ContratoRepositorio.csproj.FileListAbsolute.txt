@@ -1,0 +1,9 @@
+C:\Users\sopor\source\repos\KORPSS\Productos.ContratoRepositorio\bin\Release\Productos.ContratoRepositorio.dll
+C:\Users\sopor\source\repos\KORPSS\Productos.ContratoRepositorio\bin\Release\Productos.ContratoRepositorio.pdb
+C:\Users\sopor\source\repos\KORPSS\Productos.ContratoRepositorio\bin\Release\Productos.Dominio.dll
+C:\Users\sopor\source\repos\KORPSS\Productos.ContratoRepositorio\bin\Release\Productos.Dominio.pdb
+C:\Users\sopor\source\repos\KORPSS\Productos.ContratoRepositorio\obj\Release\Productos.ContratoRepositorio.csprojAssemblyReference.cache
+C:\Users\sopor\source\repos\KORPSS\Productos.ContratoRepositorio\obj\Release\Productos.ContratoRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\sopor\source\repos\KORPSS\Productos.ContratoRepositorio\obj\Release\Productos.ContratoRepositorio.csproj.CopyComplete
+C:\Users\sopor\source\repos\KORPSS\Productos.ContratoRepositorio\obj\Release\Productos.ContratoRepositorio.dll
+C:\Users\sopor\source\repos\KORPSS\Productos.ContratoRepositorio\obj\Release\Productos.ContratoRepositorio.pdb
