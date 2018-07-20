@@ -14,7 +14,6 @@ namespace Productos.Implementacion
     {
         public IEnumerable<Producto> ListarProductos()
         {
-
             using (ProductoFachada instancia = new ProductoFachada())
             {
                 return instancia.ListarProductos();
@@ -29,9 +28,7 @@ namespace Productos.Implementacion
             }
         }
         public IEnumerable<Producto> ObtenerProductoNombre(string Nombre)
-
         {
-
             using (ProductoFachada instancia = new ProductoFachada())
             {
                 return instancia.ObtenerProductoNombre(Nombre);
@@ -40,9 +37,7 @@ namespace Productos.Implementacion
         }
 
         public IEnumerable<Producto> ObtenerProductoPrecio(string Precio)
-
         {
-
             using (ProductoFachada instancia = new ProductoFachada())
             {
                 return instancia.ObtenerProductoPrecio(Precio);
@@ -51,43 +46,31 @@ namespace Productos.Implementacion
         }
 
         public IEnumerable<Producto> ObtenerProductoDescripcion(string Descripcion)
-
         {
-
             using (ProductoFachada instancia = new ProductoFachada())
             {
                 return instancia.ObtenerProductoDescripcion(Descripcion);
             }
-
         }
 
         public bool EliminarProdcuto(string Id)
-
         {
-
             using (ProductoFachada instancia = new ProductoFachada())
             {
                 return instancia.EliminarProdcuto(Id);
             }
-
         }
 
         public Producto ActualizarProducto(Producto producto)
-
         {
-
             using (ProductoFachada instancia = new ProductoFachada())
             {
                 return instancia.ActualizarProducto(producto);
             }
-
         }
 
         public Producto CrearProducto(Producto producto)
-
-
         {
-
             using (ProductoFachada instancia = new ProductoFachada())
             {
                 return instancia.CrearProducto(producto);
